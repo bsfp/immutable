@@ -1,0 +1,16 @@
+{
+    "name": "bsfp/immutable",
+    "authors": [
+        {
+            "name": "Noice Dious",
+            "email": "dious@pm.me"
+        }
+    ],
+  "autoload": {
+    "psr-4": {
+      "BSFP\\Tests\\": "tests/",
+      "BSFP\\": "src/"
+    }
+  },
+    "require": {}
+}
